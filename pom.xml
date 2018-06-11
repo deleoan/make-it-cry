@@ -16,7 +16,7 @@
             <url>http://40.83.100.63:8083/artifactory/great-company</url>
         </snapshotRepository>
     </distributionManagement>
-    <groupId>sample</groupId>
+    <groupId>user3</groupId>
     <artifactId>make-it-cry</artifactId>
     <name>make-it-cry</name>
 
